@@ -6,3 +6,4 @@ batch_test.py
 *cache*
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+tune.log
